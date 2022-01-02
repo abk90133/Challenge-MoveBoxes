@@ -1,0 +1,33 @@
+.top-container{
+  width: 200px;
+  height: 200px;
+  border: solid;
+  border-top-width: 20px;
+  border-bottom-width: 20px;
+  border-right-width: 20px;
+  border-left-width: 20px;
+}
+.middle-container{
+  width: 200px;
+  height: 200px;
+  margin-top: 0px;
+  margin-left: 240px;
+  border: solid;
+  border-top-width: 20px;
+  border-left-width: 20px;
+  border-right-width: 20px;
+  border-bottom-width: 20px;
+  background-color: blue;
+}
+
+.bottom-container{
+  width: 200px;
+  height: 200px;
+  margin-left: 480px;
+  border: solid;
+  border-top-width: 20px;
+  border-left-width: 20px;
+  border-bottom-width: 20px;
+  border-right-width: 20px;
+  background-color: red;
+}
